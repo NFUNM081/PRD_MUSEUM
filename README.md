@@ -65,13 +65,11 @@ ATM机，搜啥有啥,探寻最合适的路线规划，帮助您快速找到目�
 ### [原型文档交互展示](https://nfunm081.github.io/prototype-museum/)
 ### [原型文档下载区](https://github.com/NFUNM081/prototype-museum)
 
-### 1. 产品原型图
+### 1. 产品流程图
+![博物馆APP流程图](https://images.gitee.com/uploads/images/2019/1230/221039_cb22848b_1922090.jpeg "博物馆APP流程图.jpg")
 
 ### 2. 产品功能结构图
 
 
 ### 3. 产品信息结构图
-
-
-### 4. 产品流程图
 
